@@ -14,7 +14,7 @@ function inArray(arr1, arr2) {
   return arr3.sort();
 }
 
-//console.log(inArray(a1, a2));
+////console.log(inArray(a1, a2));
 /*
 function inArray(array1,array2){
   return array1

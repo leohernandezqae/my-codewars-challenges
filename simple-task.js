@@ -10,4 +10,4 @@ function maxProductOfThree(arr) {
 }
 
 const arr = [4, 5, 0, -11, 3, -7, -20];
-console.log(maxProductOfThree(arr)); // 1100
+//console.log(maxProductOfThree(arr)); // 1100

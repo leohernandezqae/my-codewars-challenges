@@ -22,11 +22,11 @@ function findEvenIndex(arr) {
     }
 
     var test = sumLeft.forEach((num) => sumRight.includes(num) ? num : 'no');
-    console.log(test);
+    ////console.log(test);
     /*
-    console.log(`Numbers: ${numbers.reverse()}`);
-    console.log(`Sum left: ${sumLeft}`);
-    console.log(`Sum right: ${sumRight.reverse()}`);*/
+    //console.log(`Numbers: ${numbers.reverse()}`);
+    //console.log(`Sum left: ${sumLeft}`);
+    //console.log(`Sum right: ${sumRight.reverse()}`);*/
     return -1;
 }
 

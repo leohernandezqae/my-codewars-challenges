@@ -65,7 +65,7 @@ function formatDuration(sec) {
 
   return finalDuration;
 }
-console.log(formatDuration(seconds));
+////console.log(formatDuration(seconds));
 
 /*
 function formatDuration2 (seconds) {

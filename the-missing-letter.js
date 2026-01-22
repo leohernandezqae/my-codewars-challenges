@@ -40,6 +40,6 @@ function findMissingLetter(array) {
 };
  */
 
-console.log(findMissingLetter(arr));
+//console.log(findMissingLetter(arr));
 
 module.exports = findMissingLetter;

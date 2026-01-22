@@ -19,6 +19,6 @@ function findOdd(A) {
 
 const findOdd2 = (xs) => xs.reduce((a, b) => a ^ b);
 
-console.log(`${findOdd2(numberList)}`);
+//console.log(`${findOdd2(numberList)}`);
 
 module.exports = findOdd2;

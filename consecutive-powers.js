@@ -21,7 +21,7 @@ function sumDigPow(a, b) {
   return eureka;
 }
 
-//console.log(sumDigPow(p1, p2));
+////console.log(sumDigPow(p1, p2));
 
 /**
 const EUREKAS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 89,135, 175, 518, 598, 1306, 1676, 2427, 2646798];

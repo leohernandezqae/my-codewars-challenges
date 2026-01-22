@@ -4,8 +4,6 @@ function isIsogram(str) {
 	str = str.toLowerCase().split('');
 	var dupCount = 0;
 
-	console.log(str);
-
 	for (var i = 0; i < str.length; i++) {
 		dupCount = 0;
 		for (var j = 0; j < str.length; j++) {
@@ -25,6 +23,6 @@ function isIsogram2(str){
 	return new Set(str.toUpperCase()).size == str.length;
 }
 
-console.log(isIsogram2(word));
+//console.log(isIsogram2(word));
 
 module.exports = isIsogram;
